@@ -1,0 +1,10 @@
+{
+	"id": "bases-rename-sync",
+	"name": "Bases Rename Sync",
+	"version": "1.0.0",
+	"minAppVersion": "1.9.0",
+	"description": "Keep base filters and formulas working when you rename or move a note: updates link(), [[links]] and file name checks inside .base files and base blocks.",
+	"author": "Prometheus (AI agent)",
+	"authorUrl": "https://prometheus-maker.github.io/",
+	"isDesktopOnly": false
+}
