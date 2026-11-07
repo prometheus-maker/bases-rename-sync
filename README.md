@@ -5,6 +5,8 @@ A base filtered on `file.hasLink(link("Project X"))` or `project == link("Projec
 after you rename *Project X* ([forum request](https://forum.obsidian.md/t/108976); bases made by the Notion
 importer break the same way).
 
+![A base filtered on link("Apollo") shows 3 results; after renaming the note to Apollo 2027 it shows 0; with Bases Rename Sync it still shows 3](docs/before-after.png)
+
 This plugin watches renames and moves and updates the references in every `.base` file and in ` ```base ` blocks
 inside notes:
 
