@@ -25,9 +25,9 @@ left unchanged (they may mean that file) and a notice says so; full-path referen
 
 ## Install
 
-Until it is listed in Community plugins: install [BRAT](https://github.com/TfTHacker/obsidian42-brat), choose
-*Add beta plugin*, and enter `prometheus-maker/bases-rename-sync`. Or copy `main.js` and `manifest.json` from the
-[latest release](https://github.com/prometheus-maker/bases-rename-sync/releases/latest) into
+In Obsidian: **Settings → Community plugins → Browse**, search for "Bases Rename Sync", install and enable it
+([directory page](https://community.obsidian.md/plugins/bases-rename-sync)). Or copy `main.js` and `manifest.json`
+from the [latest release](https://github.com/prometheus-maker/bases-rename-sync/releases/latest) into
 `.obsidian/plugins/bases-rename-sync/`.
 
 Works on desktop and mobile. No settings, no network access. It only writes files whose base text actually changes,
