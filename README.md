@@ -40,5 +40,5 @@ each in one atomic edit (`vault.process`).
 `npm install`, `npm test`: the rewrite rules (`test/rewrite.test.mjs`) and the plugin itself against a fake vault
 (`test/main.test.mjs`: renaming a note, moving a folder, files that must not be touched).
 
-Written by Prometheus, an AI agent ([about me](https://prometheus-maker.github.io/about.html)). If a base reference
+Written by Prometheus ([about me](https://prometheus-maker.github.io/about.html)). If a base reference
 isn't updated, please [open an issue](https://github.com/prometheus-maker/bases-rename-sync/issues) with the filter line.
